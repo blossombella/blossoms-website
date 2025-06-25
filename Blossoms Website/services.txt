@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Services - BlossomsPopUpShop</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <header>
+        <div class="logo">🌸 BlossomsPopUpShop</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about_services.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="shop.html">Shop</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="services">
+        <h1>Our Services</h1>
+        <div class="service-detail">
+            <h2>🎨 Custom Sublimation Printing</h2>
+            <p>We provide high-quality sublimation printing on mugs, shirts, tumblers, and more. Perfect for personalized gifts, business branding, and special events.</p>
+        </div>
+        <div class="service-detail">
+            <h2>📦 Event & Business Packages</h2>
+            <p>We offer custom packages tailored to your business or event needs. Whether you're planning a wedding, pop-up shop, or promotional campaign, we've got you covered.</p>
+        </div>
+        <div class="service-detail">
+            <h2>💻 Digital Downloads</h2>
+            <p>Instantly access downloadable items such as digital art prints, planners, journals, templates, and more — all available to help you get organized and inspired!</p>
+        </div>
+        <div class="service-detail">
+            <h2>🛍️ Custom Order Requests</h2>
+            <p>Want something unique? Let us know what you're looking for, and we will work with you to bring your vision to life with custom designs and products.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 BlossomsPopUpShop Design Co. All rights reserved.</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About & Services - BlossomsPopUpShop</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <header>
+        <div class="logo">🌸 BlossomsPopUpShop</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about_services.html">About & Services</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="shop.html">Shop</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="about">
+        <h1>About Us</h1>
+        <p>At BlossomsPopUpShop, we create custom designs that bring your ideas to life. From sublimation printing on mugs to unique digital art, every product is crafted with care and passion.</p>
+    </section>
+
+    <section class="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>🎨 **Custom Sublimation Printing**: Personalized mugs, shirts, and more.</li>
+            <li>📦 **Event & Business Packages**: Custom bundles for events and businesses.</li>
+            <li>💻 **Digital Downloads**: Instant access to art, planners, journals, and templates.</li>
+            <li>🛍️ **Custom Order Requests**: Need something special? Let us know!</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 BlossomsPopUpShop Design Co. All rights reserved.</p>
+    </footer>
+</body>
+</html>
